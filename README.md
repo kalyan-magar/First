@@ -1,3 +1,3 @@
 # First
 This is my first git repository 
-Name : Akshay Kumar  
+Name : Akshay Kumar (actor) 
